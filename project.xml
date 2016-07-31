@@ -11,6 +11,9 @@
 	<window background="#ffffff" fps="60" />
 	<window width="800" height="480" unless="mobile" />
 	<window orientation="landscape" vsync="false" antialiasing="0" if="cpp" />
+    
+    <haxedef name="dom" />
+	<haxeflag name="-D dom" />
 	
 	<!-- classpath, haxe libs -->
 	<source path="src" />

@@ -10,8 +10,7 @@ class Main extends Sprite {
 	public function new() {
 		super();
 		
-        var s = new MultilineTextfield();
-        this.addChild(s);
+        var a = new GenericsTest();
 	}
 
 }
