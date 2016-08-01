@@ -1,4 +1,4 @@
-package com.auroratide.sandbox;
+package com.auroratide.sandbox.multiline;
 
 import openfl.display.Sprite;
 import openfl.text.TextField;

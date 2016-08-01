@@ -1,4 +1,4 @@
-package com.auroratide.sandbox;
+package com.auroratide.sandbox.steganography;
 
 import haxe.io.Bytes;
 import sys.io.File;
