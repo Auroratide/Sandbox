@@ -1,12 +1,10 @@
-package com.auroratide.color_conways.grid;
-
-import com.auroratide.color_conways.util.TrackableMemory;
+package com.auroratide.sandbox.grid;
 
 /**
  *  LinkedListGrid Class
  *  @author  Timothy Foster (tfAuroratide)
  */
-class LinkedListGrid<T> implements Grid<T> implements TrackableMemory {
+class LinkedListGrid<T> implements Grid<T> {
 
 /*  Constructor
  *  =========================================================================*/

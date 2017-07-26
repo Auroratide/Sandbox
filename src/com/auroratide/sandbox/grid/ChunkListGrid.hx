@@ -1,6 +1,4 @@
-package com.auroratide.color_conways.grid;
-
-import com.auroratide.color_conways.util.TrackableMemory;
+package com.auroratide.sandbox.grid;
 
 /**
  *  Grid Class
@@ -10,7 +8,7 @@ import com.auroratide.color_conways.util.TrackableMemory;
  *  the bounds of Int, and the Grid will always tray to allocate space to
  *  ensure the coordinate exists.
  */
-class ChunkListGrid<T> implements Grid<T> implements TrackableMemory {
+class ChunkListGrid<T> implements Grid<T> {
     
 /*  Constructor
  *  =========================================================================*/

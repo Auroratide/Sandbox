@@ -1,4 +1,4 @@
-package com.auroratide.color_conways.grid;
+package com.auroratide.sandbox.grid;
 
 /**
  * @author Timothy Foster (tfAuroratide)
