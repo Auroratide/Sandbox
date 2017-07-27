@@ -21,5 +21,9 @@ class ClearArrayModule extends PerformanceModule {
     override public function iterations():Int {
         return 1000000;
     }
+    
+    private function randomInt():Int {
+        return Math.floor(Math.random() * currentSize());
+    }
 
 }
